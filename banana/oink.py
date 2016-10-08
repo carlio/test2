@@ -1,5 +1,5 @@
 
-print 'hello'
+print ('hello')
 
 def annother():
     return 2 + 5
